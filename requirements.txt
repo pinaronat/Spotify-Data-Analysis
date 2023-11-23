@@ -1,0 +1,7 @@
+pandas
+seaborn
+spotipy
+matplotlib
+pandas-profiling
+ipywidgets
+jupyter

@@ -1,0 +1,51 @@
+Track_ID,Track_Name,Track_Artists,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+6Es8Sk3xe1HiJ2MXCfHHwR,La_Original.mp3,"['Emilia', 'TINI']",0.833,0.809,5,-2.751,0,0.0381,0.0836,0.0,0.112,0.905,128.055,140625,4
+7aPsseax6rNFyipHn9A5CR,La Morocha,"['Luck Ra', 'BM']",0.753,0.77,7,-5.751,1,0.0341,0.0966,0.0,0.279,0.971,149.144,134144,4
+7HrgGbnNKZKhBL70aFKpXk,Linda - Remix,"['Marka Akme', 'DJ Tao', 'Lauty Gram', 'Migrantes', 'Peipper']",0.78,0.63,9,-4.719,1,0.105,0.307,0.0,0.18,0.789,87.999,234106,4
+4sl3IoHskl2Kbdy27gZ4yn,Una Foto,['Mesita'],0.811,0.649,6,-5.089,1,0.111,0.343,0.0,0.121,0.756,96.076,122500,4
+3cDyocF0Ibdfs1SFQk5cLZ,Lollipop,['Darell'],0.822,0.711,6,-4.943,1,0.0668,0.179,1.46e-05,0.083,0.934,102.984,199947,4
+2HafqoJbgXdtjwCOvNEF14,Si No Estás,['iñigo quintero'],0.537,0.421,5,-8.72,1,0.0285,0.827,0.0,0.138,0.524,98.224,184061,4
+6hwGwCfCwHoSJQw7AYPEQu,ANDO,"['Jere Klein', 'Gittobeatz']",0.844,0.598,8,-7.95,0,0.0616,0.00362,0.00214,0.0869,0.393,98.022,172768,4
+5f4mOETLngamMDTJnbF9s7,Exclusive.mp3,['Emilia'],0.858,0.677,8,-4.294,1,0.118,0.106,0.0,0.246,0.584,100.046,120600,4
+7iQXYTyuG13aoeHxGG28Nh,PERRO NEGRO,"['Bad Bunny', 'Feid']",0.911,0.778,5,-2.248,1,0.262,0.0887,2.16e-05,0.179,0.345,96.057,162768,4
+0H9WU0OIXPpbOVgzzOanXb,Ni Una Ni Dos,['BM'],0.781,0.601,7,-5.817,1,0.0459,0.513,0.0,0.268,0.853,88.06,161591,4
+6hv8hai0yo19JF2c6pppj6,GTA.mp3,['Emilia'],0.882,0.783,7,-4.023,0,0.0985,0.0605,4.74e-05,0.141,0.555,127.035,151654,4
+4SW9gHnW8NfKOdqmh0ij45,Fruto,"['Bizarrap', 'Milo j']",0.801,0.517,2,-8.205,0,0.269,0.494,1.45e-06,0.355,0.923,160.254,133969,4
+3tiJUOfAEqIrLFRQgGgdoY,Un Finde | CROSSOVER #2,"['Big One', 'FMK', 'Ke Personajes']",0.499,0.519,11,-8.199,1,0.0595,0.109,0.0,0.276,0.848,192.147,163788,4
+6PMapQ7YSxkhAgNOvvoiWs,Bad Boy,"['Sayian Jimmy', 'Nysix Music']",0.577,0.513,10,-7.653,0,0.0541,0.0613,0.0,0.338,0.502,177.939,159101,4
+5O9IqFNUVtjRlDpdKex3YH,Ahi Ahi,['El negro tecla'],0.781,0.573,7,-6.439,0,0.107,0.373,0.0,0.117,0.516,89.911,176797,4
+5zDEMy7lLJ1W7vauTrH5mb,Lágrimas | CROSSOVER #4,"['Big One', 'TINI', 'BM']",0.796,0.607,8,-5.076,1,0.0435,0.079,0.0,0.0599,0.834,93.018,156862,4
+4jn3R3KF5hx2fCiXlj89yE,FLECHAZO EN EL CENTRO,"['YSY A', 'Bhavi', 'Milo j']",0.767,0.607,5,-6.875,0,0.0516,0.0927,0.0,0.112,0.38,104.98,186857,4
+11PV8CaPqlto9Uejx92C35,OJITOS ROJOS,"['Grupo Frontera', 'Ke Personajes']",0.721,0.782,11,-3.51,1,0.045,0.251,0.0,0.107,0.77,90.001,221601,4
+6Z28dALKtAgZ7AZRfjMQjY,Mentiras | CROSSOVER #3,"['Big One', 'Ulises Bueno', 'Rusherking']",0.736,0.512,11,-10.957,1,0.0771,0.00705,0.0,0.197,0.802,149.987,167600,4
+1NMbORRsowjN8q000xlJ8l,QUE ME FALTE TODO,"['Luck Ra', 'Abel Pintos']",0.73,0.854,3,-5.115,0,0.0515,0.0935,0.0,0.688,0.966,148.038,165919,4
+7jDYmAWdghEWmQyqwLpriE,NO DA MÁS,"['YSY A', 'Duki', 'ONIRIA', 'Yesan 雪山']",0.606,0.929,8,-2.555,0,0.0658,0.012,0.0,0.173,0.346,159.806,171051,4
+6q6aChVJ5LLXFUSfakwpxW,Piscina,"['Maria Becerra', 'Chencho Corleone', 'Ovy On The Drums']",0.761,0.827,11,-4.189,0,0.0659,0.385,6.42e-05,0.095,0.568,97.021,225661,4
+1iLbUmb2b2btyAAcQ68a1p,"Milo J: Bzrp Music Sessions, Vol. 57","['Bizarrap', 'Milo j']",0.795,0.553,4,-8.496,0,0.244,0.527,2.84e-06,0.112,0.739,124.109,192288,4
+3oNnzH6hmqIGIhJ1NcHlrh,CORAZÓN VACÍO,['Maria Becerra'],0.681,0.792,1,-4.795,1,0.0587,0.334,2.05e-06,0.295,0.4,98.09,160536,4
+6XbtvPmIpyCbjuT0e8cQtp,Columbia,['Quevedo'],0.668,0.712,5,-5.927,1,0.0381,0.369,2.13e-05,0.108,0.264,100.02,186000,4
+6jRZ33ifS5VOTMwmPxhPhN,Ya No Vuelvas (Versión Cuarteto),"['Luck Ra', ""La K'onga"", 'Ke Personajes']",0.736,0.9,1,-4.575,1,0.0825,0.224,0.0,0.375,0.562,149.947,204000,4
+5RqSsdzTNPX1uzkmlHCFvK,QLONA,"['KAROL G', 'Peso Pluma']",0.841,0.738,7,-7.455,0,0.307,0.52,0.0,0.0892,0.484,169.918,172798,4
+04sktg3deiYUweHfbFUZTM,El Amor De Mi Vida,"['Los Ángeles Azules', 'Maria Becerra']",0.618,0.793,11,-4.013,0,0.0493,0.163,0.0,0.0822,0.688,88.01,184587,4
+7ABLbnD53cQK00mhcaOUVG,LALA,['Myke Towers'],0.708,0.737,1,-4.045,1,0.0436,0.0739,0.00162,0.0955,0.607,91.986,197920,4
+1Hs1uUl8o2VtDp1DABFq0O,Los del Espacio,"['LIT killah', 'Tiago PZK', 'Maria Becerra', 'Duki', 'Emilia', 'Rusherking', 'Big One', 'FMK']",0.813,0.682,0,-3.598,1,0.0402,0.107,0.0,0.108,0.634,120.011,338000,4
+7MVIfkyzuUmQ716j8U7yGR,Rara Vez,"['Taiu', 'Milo j']",0.838,0.708,5,-4.668,0,0.166,0.176,0.0,0.343,0.96,119.984,128677,4
+4MjDJD8cW7iVeWInc2Bdyj,MONACO,['Bad Bunny'],0.787,0.621,4,-5.009,0,0.068,0.15,0.000402,0.58,0.13,139.056,267194,4
+2bNCiY24Eh4saMcc23bvUN,ADIÓS,['Maria Becerra'],0.747,0.765,9,-4.184,0,0.0547,0.374,4.66e-06,0.202,0.514,98.012,160856,4
+0iVcmJx7r74F7mTf7M6s0v,Me Escapé,"['DobleP', 'Lauty Gram', 'Gusty dj']",0.844,0.68,2,-6.085,1,0.0644,0.291,0.0,0.553,0.619,100.109,164101,4
+3DeZc9cOc1DM8YNoJV8lAv,Toy en el Mic,"['Bizarrap', 'Milo j']",0.73,0.423,8,-10.953,0,0.145,0.464,0.0,0.202,0.91,100.941,143998,4
+7v7RTZrtBsoENSPD0SCMLy,DIME SI ERES FELIZ VOL.2,"['BM', ""Hernan y La Champion's Liga""]",0.713,0.445,9,-9.624,1,0.0391,0.396,0.0,0.247,0.693,89.896,158047,4
+6r0TaoZh1Oc1KkuL4rC1kB,DISPARA ***,"['Nicki Nicole', 'Milo j']",0.81,0.657,1,-2.978,1,0.155,0.48,0.0,0.108,0.698,89.972,143936,4
+7xX7bER73YZSE4m76OpMXV,Salgo a Bailar,"['FMK', 'Emilia']",0.73,0.656,10,-2.628,1,0.0454,0.012,0.0,0.0872,0.694,137.829,157830,3
+3ezO8gfskSWM3rk0GTfhFl,ATORRANTE - con Los Palmeras,"['Emanero', 'Ulises Bueno', 'Migrantes', 'Los Palmeras']",0.667,0.604,6,-5.119,0,0.128,0.262,0.0,0.0842,0.7,81.869,252348,4
+79s2n0evTdub5GPj7noqfK,LUGARES QUE LLEGO,"['YSY A', 'Quevedo', 'ONIRIA']",0.727,0.936,1,-3.236,0,0.0547,0.354,0.000546,0.134,0.7,125.957,228629,4
+2df5CkXBJO7jTGXm54dFJy,No_Se_Ve.mp3,"['Emilia', 'LUDMILLA', 'Zecca']",0.765,0.659,11,-5.059,0,0.0825,0.0892,3.83e-05,0.149,0.567,132.066,203636,4
+6CIMoDfTsvFVGhFi3v9Izn,Luck Ra | Mission 15,"['Alan Gomez', 'Luck Ra']",0.691,0.728,4,-5.722,0,0.0986,0.177,0.0,0.171,0.814,160.02,133285,4
+6abr2lKyMZTy21gSPWm7aG,Entre Beso y Beso,['Ke Personajes'],0.729,0.868,10,-1.669,0,0.0536,0.57,0.0,0.206,0.906,85.962,153488,4
+0aPs3kmiqmt9QG7gWXdefA,No soy Eterno,"['Bizarrap', 'Milo j']",0.564,0.402,2,-6.488,0,0.329,0.44,6.25e-05,0.308,0.628,121.45,152903,4
+5w7RsSgxxBwdVTSyQDj8Bi,DISCOTEKA (feat. Locura Mix),"['The La Planta', 'BM', 'Alejo Isakk', 'Locura Mix']",0.822,0.519,9,-7.183,1,0.136,0.178,0.0,0.0814,0.779,89.962,204481,4
+6XSqqQIy7Lm7SnwxS4NrGx,Classy 101,"['Feid', 'Young Miko']",0.859,0.658,11,-4.79,1,0.159,0.145,0.0,0.12,0.672,100.065,195987,4
+3WndNMJo029mMO64l9hGFm,Dale Mecha,['Mesita'],0.623,0.636,4,-4.36,0,0.431,0.3,0.0,0.106,0.441,146.286,150829,3
+7w7BrPbOjF5OxChs2dxFve,En La Intimidad | CROSSOVER #1,"['Big One', 'Emilia', 'Callejero Fino']",0.804,0.555,1,-4.991,1,0.107,0.0924,0.0,0.0699,0.64,89.946,172118,4
+2kz1YOhJiNubjigR1gB1VX,DILUVIO,['Rauw Alejandro'],0.845,0.795,9,-3.502,0,0.0681,0.343,1.78e-05,0.224,0.681,94.969,197053,4
+6irysuQyZWd7Bjj7ePiOs2,Holanda,['Jhayco'],0.831,0.759,1,-3.627,0,0.0502,0.277,0.0,0.125,0.244,107.961,231693,4
