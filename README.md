@@ -1,5 +1,4 @@
 # Spotify Country Based Data Analysis
----
 
 
 This repo consists of a practice data analysis of Spotify data collected through the Spotify API, using the  **[spotipy](https://spotipy.readthedocs.io/en/2.22.1/)** python package. \
