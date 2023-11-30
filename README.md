@@ -14,6 +14,6 @@ The requirements can be installed from the command line using:
 main parts, indicated and separated within the notebook with markdown cells.
 	- ***Part 1: Spotify Data Collection & Cleaning*** - In this part, 5 different playlist data (for each country) and audio features for each song is pulled from spotify, and cleaned up to form a merged dataset consisting of all useful variables.
 	- ***Part2: Explorative Data Analysis*** - The second part uses the python package **[ydata-profiling](https://docs.profiling.ydata.ai/4.6/)** to apply an overall exploration of the obtained datasets, showing various visualizations and identifying possible problems with the dataset, like missing values and high correlations. The datasets are then expored more in detail by adding certain visualizations to summarize the dataset in a more concise way (like a pairs plot).
-	- ***Part3: Comparative Data Analysis*** - 
+	- ***Part3: Comparative Data Analysis*** - Multiple group comparison tests (Kruskal-Wallis & ANOVA) are used to see if the difference between the means of each group is significant. The results are visualized in boxplots, attaching the p-values on top of the plots.
 3. **results** - The directory that contains the resulting plots, tables and reports of the analysis.
 4. **csv files** - Info that was collected from spotify and merged. Contains both the audio features data and the playlist contents (songs).
